@@ -1,6 +1,7 @@
 ---
 title: "[Video] Comparing C to machine language"
 date: 2025-04-28
+tags: machine; c;
 ---
 
 # Conclusion
